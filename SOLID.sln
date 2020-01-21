@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01SingleResponsibility", "0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02SingleResponsibilityRefactor", "02SingleResponsibilityRefactor\02SingleResponsibilityRefactor.csproj", "{7736630D-3053-4C0F-8B54-FD8151D6BE16}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03OpenClosed", "03OpenClosed\03OpenClosed.csproj", "{D3AE33D3-58D5-45C3-9925-30FB29E2E7E4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{7736630D-3053-4C0F-8B54-FD8151D6BE16}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7736630D-3053-4C0F-8B54-FD8151D6BE16}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7736630D-3053-4C0F-8B54-FD8151D6BE16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3AE33D3-58D5-45C3-9925-30FB29E2E7E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3AE33D3-58D5-45C3-9925-30FB29E2E7E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3AE33D3-58D5-45C3-9925-30FB29E2E7E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3AE33D3-58D5-45C3-9925-30FB29E2E7E4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
